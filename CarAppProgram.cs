@@ -116,7 +116,7 @@ namespace Cartrial
 
             if (IsPalindrome((int)bil.Kilometerstand))
             {
-                Console.WriteLine("🎉 Tillykke! Din kilometerstand er et palindrom! 🎉");
+                Console.WriteLine(" Tillykke! Din kilometerstand er et palindrom! 🎉");
             }
         }
 
